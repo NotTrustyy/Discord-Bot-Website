@@ -54,12 +54,9 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  githubLink: "https://github.com/NotTrustyy",
+  twitterLink: "https://twitter.com/Memecentre72752",
+  discordLink: "https://discord.gg/86R2ZfDuEs", 
 };
 
 export default config;
